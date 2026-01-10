@@ -1,0 +1,17 @@
+{
+  "success": false,
+  "error": "FileNotFoundError: [Errno 2] No such file or directory: 'data.csv'",
+  "metrics": {
+    "input_rows": 0,
+    "output_rows": 0,
+    "duplicates_removed": 0,
+    "empty_rows_removed": 0,
+    "invalid_emails": 0,
+    "invalid_phones": 0,
+    "accents_normalized": 0,
+    "whitespace_trimmed": 0,
+    "execution_time": 0.006555,
+    "quality_score": 0,
+    "error_message": "FileNotFoundError: [Errno 2] No such file or directory: 'data.csv'"
+  }
+}
