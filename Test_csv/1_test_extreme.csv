@@ -1,0 +1,8 @@
+nom,email,telephone,entreprise
+Jean Dupont,jean.dupont@acme.fr,0612345678,Acme
+Jean Dupont,jean.dupont@acme.fr,0612345678,Acme
+Jean Dupont,jean.dupont@acme.fr,0612345678,Acme
+Marie Martin,marie.martin@martin.fr,0678901234,Martin SARL
+Pierre Bernard,pierre@techsolutions.com,0687654321,Tech
+Lucie Dubois,lucie.dubois@consulting.fr,0698765432,Dubois
+# ... Répète Jean 95x pour 100 lignes
