@@ -1,0 +1,19 @@
+# Secrets (Diamant 2025)
+.env
+.env.local
+.env.*
+*.key
+client.py
+server.env
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Logs/DB
+*.log
+data/
+cleaned_result.json
+# IDE
+.vscode/
+.DS_Store

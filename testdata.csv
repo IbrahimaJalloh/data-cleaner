@@ -1,0 +1,8 @@
+nom,email,telephone,entreprise
+jean dupont,jeangmail.com,33 6 12 34 56 78,Acme Inc
+Jean Dupont,jean.dupontgmail.com,06-12-34-56-78,Acme
+marie martin,marie.martinyahoo.fr,,Martin Co
+Marie Martin,marie.martinyahoo.fr,33612111111,
+pierre bernard,,,Tech Solutions
+duplicate@ex.com,01 23 45 67 89,Duplicate Inc
+duplicate@ex.com,0123456789,Duplicate Inc
